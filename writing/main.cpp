@@ -6,7 +6,7 @@ int main() {
     char ch;
     fstream myfile;
 
-    myfile.open("file.txt", ios::in|ios::out|ios::trunc|ios::binary);
+    myfile.open("../file.txt", ios::in|ios::out|ios::trunc|ios::binary);
 
     myfile<<"Hello, world. Hello, again.";
     myfile.seekg(12, ios::beg);
@@ -16,6 +16,7 @@ int main() {
     myfile.seekp(-2, ios::end);
     myfile<<'Z';
 
+    //
 
     myfile.close();
 }
