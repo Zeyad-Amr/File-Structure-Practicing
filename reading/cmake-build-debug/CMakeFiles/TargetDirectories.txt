@@ -1,0 +1,3 @@
+C:/Users/Zeyad-Amr/Documents/GitHub/File-Structure-Practicing/reading/cmake-build-debug/CMakeFiles/reading.dir
+C:/Users/Zeyad-Amr/Documents/GitHub/File-Structure-Practicing/reading/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Zeyad-Amr/Documents/GitHub/File-Structure-Practicing/reading/cmake-build-debug/CMakeFiles/rebuild_cache.dir

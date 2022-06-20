@@ -1,0 +1,3 @@
+C:/Users/Zeyad-Amr/Documents/GitHub/File-Structure-Practicing/writing/cmake-build-debug/CMakeFiles/writing.dir
+C:/Users/Zeyad-Amr/Documents/GitHub/File-Structure-Practicing/writing/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Zeyad-Amr/Documents/GitHub/File-Structure-Practicing/writing/cmake-build-debug/CMakeFiles/rebuild_cache.dir
